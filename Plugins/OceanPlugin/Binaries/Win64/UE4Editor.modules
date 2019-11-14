@@ -1,7 +1,7 @@
 {
-	"BuildId": "5660361",
+	"BuildId": "10091930",
 	"Modules": 
 	{
-		"OceanPlugin": "UE4Editor-OceanPlugin-7377.dll"
+		"OceanPlugin": "UE4Editor-OceanPlugin.dll"
 	}
 }
